@@ -1,12 +1,11 @@
 # naujas root slaptazodis
 
 
-wget https://raw.githubusercontent.com/ForceGROUP/naujasslap/main/slaproot.sh; chmod +x slaproot.sh; ./slaproot.sh
 
 
 ```
-Installation [ BETA ]
+Instal [ root slaptazodis ]
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/
+wget https://raw.githubusercontent.com/ForceGROUP/naujasslap/main/slaproot.sh; chmod +x slaproot.sh; ./slaproot.sh
 
 ```
